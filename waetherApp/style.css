@@ -50,6 +50,7 @@ input.searchBar {
     color: aliceblue;
     margin: 20px;
     margin-right: 7px;
+    font-weight: bold;
 }
 button#search-Btn {
     margin-left: 0.5vh;
